@@ -15,7 +15,7 @@ const Proyectos = () => {
                         <p>Desarrollo y mantenimiento de la web.</p>
                     </li>
                     <li>
-                        <a style={{color: '#bd5d38'}} href="https://amber-survivals.000webhostapp.com/"><i class="fa-li fa fa-trophy text-warning"></i> HomeMarket</a>
+                        <a style={{color: '#bd5d38'}} href="https://disenio-sistemas.000webhostapp.com/"><i class="fa-li fa fa-trophy text-warning"></i> HomeMarket</a>
                         <p>Proyecto personal de un E-commerce.</p>
                     </li>
                     <li>

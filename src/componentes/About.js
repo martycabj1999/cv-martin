@@ -25,7 +25,7 @@ const About = () => {
                     <a href="https://www.linkedin.com/in/martintg/">
                         <i class="fab fa-linkedin-in"></i>
                     </a>
-                    <a href="https://drive.google.com/open?id=1UpwtuNbJKhBdJzmbjaaMhjGVg8brSPno">
+                    <a href="https://drive.google.com/file/d/125E81HEtZ5DjIY0-tpyoXZd-GLLIQC7u/view?usp=sharing">
                         <i class="fas fa-id-card"></i>
                     </a>
                     <a href="https://github.com/martycabj1999">

@@ -9,7 +9,7 @@ const Experiencia = () => {
                     <div class="resume-content">
                         <h3 class="mb-0">Web Developer Full Stack</h3>
                         <div class="subheading mb-3">Sondeos</div>
-                        <p>Programador Full Stack Programador Junior Full Stack, principalmente en React, NodeJs, MongoDB y Docker para el desarrollo de sistemas web.</p>
+                        <p>Programador Full Stack, principalmente en React, NodeJs, MongoDB y Docker para el desarrollo de sistemas web.</p>
                     </div>
                     <div class="resume-date text-md-right">
                         <span class="text-primary">Febrero 2020 - Actualidad</span>
@@ -19,7 +19,7 @@ const Experiencia = () => {
                     <div class="resume-content">
                         <h3 class="mb-0">Web Developer Full Stack</h3>
                         <div class="subheading mb-3">Youmarket</div>
-                        <p>Programador Full Stack Programador Junior Full Stack, principalmente en React y Laravel en el desarrollo y mantenimiento de la web.</p>
+                        <p>Programador Jr. Full Stack, principalmente en React y Laravel en el desarrollo y mantenimiento de la web.</p>
                     </div>
                     <div class="resume-date text-md-right">
                         <span class="text-primary">Agosto 2019 - Febrero 2020</span>
