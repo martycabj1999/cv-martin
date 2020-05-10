@@ -8,25 +8,29 @@ import Educacion from './componentes/Educacion';
 import Skills from './componentes/Skills';
 import Intereses from './componentes/Intereses';
 import Proyectos from './componentes/Proyectos';
+import { Provider } from 'react-redux';
+import store from './store';
 
 function App() {
   return (
-    <div id="page-top">
-          <Navbar />
-        <div class="container-fluid p-0">
-          <About />
-        <hr class="m-0" />
-          <Experiencia />
-        <hr class="m-0"/>
-          <Educacion />
-        <hr class="m-0"/>
-          <Skills />
-        <hr class="m-0"/>
-          <Intereses />
-        <hr class="m-0"/>
-          <Proyectos />
-        </div>
-    </div>
+    <Provider store={store} >
+      <div id="page-top">
+            <Navbar />
+          <div class="container-fluid p-0">
+            <About />
+          <hr class="m-0" />
+            <Experiencia />
+          <hr class="m-0"/>
+            <Educacion />
+          <hr class="m-0"/>
+            <Skills />
+          <hr class="m-0"/>
+            <Intereses />
+          <hr class="m-0"/>
+            <Proyectos />
+          </div>
+      </div>
+    </Provider>
   );
 }
 

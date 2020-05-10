@@ -7,7 +7,7 @@ const About = () => {
     var height = window.screen.height;
     
     return (
-        <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+        <section class="p-3 p-lg-5 d-flex align-items-center" id="about">
             <div class="w-100">
                 <h1 class="mb-0">Martin Sebastian
                     <span class="text-primary"> Tito Gira</span>
