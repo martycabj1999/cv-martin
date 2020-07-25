@@ -40,6 +40,10 @@ const Proyectos = () => {
                         <p>{messages.projects_course_description_3}</p>
                     </li>
                     <li>
+                        <a style={{color: '#bd5d38'}} href="https://platzi.com/cursos/intro-elasticsearch/"><i class="fa-li fa fa-trophy text-warning"></i> {messages.projects_course_16}</a>
+                        <p>{messages.projects_course_description_16}</p>
+                    </li>
+                    <li>
                         <a style={{color: '#bd5d38'}} href="https://platzi.com/clases/docker/"><i class="fa-li fa fa-trophy text-warning"></i> {messages.projects_course_4}</a>
                         <p>{messages.projects_course_description_4}</p>
                     </li>
