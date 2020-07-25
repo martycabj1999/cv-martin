@@ -17,7 +17,8 @@ export const messagesSpanish = {
     interests_text_1: "Me desempeño bastante en el desarrollo de Backend con Laravel y el Frontend con React. Utilizacion de bases de datos relacionales (MYSQL) y no relacionales(MongoDB).",
     interests_text_2: "Especializado en el desarrollo de paginas web y aplicaciones para empresas, estoy capacitado para administrar plataformas y bases de datos, mi objetivo profesional es incursionar en la gestión de proyectos de software.",
     interests_text_3: "En 2019 forme un grupo de desarrollo y a principios de 2020 nos conformamos bajo el nombre de NewLogic, buscamos cambiar la forma de trabajo e intentar capacitar a que la mayor cantidad de personas empiezen con sus carreras en la industria del software.",
-    interests_info: "Informe 2019",
+    interests_info_2019: "Informe 2019",
+    interests_info_2020_1: "Informe 2020 Parte 1",
 
     navbar_about: "Sobre Mi",
     navbar_experience: "Experiencia",
@@ -132,7 +133,8 @@ export const messagesEnglish = {
     interests_text_1: "I do a lot of work in developing Backend with Laravel and Frontend with React. Use of relational (MYSQL) and non-relational (MongoDB) databases.",
     interests_text_2: "Specialized in the development of web pages and applications for companies, I am trained to manage platforms and databases, my professional objective is to venture into the management of software projects.",
     interests_text_3: "In 2019 I formed a development group and in early 2020 we settled under the name of NewLogic, we seek to change the way of working and try to train as many people as possible to start their careers in the software industry.",
-    interests_info: "2019 Report",
+    interests_info_2019: "2019 Report",
+    interests_info_2020_1: "2020 Report Part 1",
 
     navbar_about: "About",
     navbar_experience: "Experience",
@@ -248,7 +250,8 @@ export const messagesPortuguese = {
     interests_text_1: "Trabalho muito no desenvolvimento do Backend com Laravel e Frontend com React. Uso de bancos de dados relacionais (MYSQL) e não relacionais (MongoDB).",
     interests_text_2: "Especializado no desenvolvimento de páginas da Web e aplicativos para empresas, sou treinado para gerenciar plataformas e bancos de dados, meu objetivo profissional é me aventurar no gerenciamento de projetos de software.",
     interests_text_3: "Em 2019, formei um grupo de desenvolvimento e, no início de 2020, estabelecemos o nome de NewLogic, procuramos mudar a maneira de trabalhar e tentamos treinar o maior número possível de pessoas para iniciar suas carreiras na indústria de software",
-    interests_info: "Relatório de 2019",
+    interests_info_2019: "Relatório 2019",
+    interests_info_2020_1: "Relatório 2020 Parte 1",
 
     navbar_about: "Sobre Mim",
     navbar_experience: "Experiência",
