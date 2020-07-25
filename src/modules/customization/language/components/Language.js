@@ -85,6 +85,7 @@ const Language = () => {
                     <Grid item>
                         <FormControl className={classes.formControl}>
                             <InputLabel id="demo-simple-select-required-label">{messages.language_change}</InputLabel>
+                            <br/>
                             <Select value={language} onChange={changeLanguage} >
                                 <MenuItem value='es'>{messages.language_change_spanish}</MenuItem>
                                 <MenuItem value='en'>{messages.language_change_english}</MenuItem>

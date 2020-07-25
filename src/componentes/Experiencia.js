@@ -13,7 +13,9 @@ const Experiencia = () => {
                 <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="resume-content">
                         <h3 class="mb-0">{messages.experience_job_4}</h3>
-                        <div class="subheading mb-3">{messages.experience_job_name_4}</div>
+                        <div class="subheading mb-3">
+                            <a style={{color: '#bd5d38'}} href="http://www.snd.com.ar/">{messages.experience_job_name_4}</a>
+                        </div>
                         <p>{messages.experience_job_description_4}</p>
                     </div>
                     <div class="resume-date text-md-right">
@@ -23,7 +25,9 @@ const Experiencia = () => {
                 <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="resume-content">
                         <h3 class="mb-0">{messages.experience_job_3}</h3>
-                        <div class="subheading mb-3"></div>
+                        <div class="subheading mb-3">
+                            <a style={{color: '#bd5d38'}} href="http://newlogiclp.com/">{messages.experience_job_name_3}</a>
+                        </div>
                         <p>{messages.experience_job_description_3}</p>
                     </div>
                     <div class="resume-date text-md-right">
@@ -33,7 +37,9 @@ const Experiencia = () => {
                 <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="resume-content">
                         <h3 class="mb-0">{messages.experience_job_2}</h3>
-                        <div class="subheading mb-3">{messages.experience_job_name_2}</div>
+                        <div class="subheading mb-3">
+                            <a style={{color: '#bd5d38'}} href="https://ym.youmarket.com.ar">{messages.experience_job_name_2}</a>
+                        </div>
                         <p>{messages.experience_job_description_2}</p>
                     </div>
                     <div class="resume-date text-md-right">
@@ -43,7 +49,9 @@ const Experiencia = () => {
                 <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="resume-content">
                         <h3 class="mb-0">{messages.experience_job_1}</h3>
-                        <div class="subheading mb-3">LINES</div>
+                        <div class="subheading mb-3">
+                            <a style={{color: '#bd5d38'}} href="https://lines.frlp.utn.edu.ar/">LINES</a>
+                        </div>
                         <p>{messages.experience_job_description_1}</p>
                     </div>
                     <div class="resume-date text-md-right">

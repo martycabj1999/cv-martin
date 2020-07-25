@@ -19,6 +19,7 @@ const Skills = () => {
                     <li class="list-inline-item">
                         <i class="fab fa-docker"></i>
                     </li>
+                    
                     <li class="list-inline-item">
                         <i class="fas fa-database"></i>
                     </li>
@@ -44,10 +45,10 @@ const Skills = () => {
                         <i class="fab fa-node-js"></i>
                     </li>
                     <li class="list-inline-item">
-                        <i class="fab fa-sass"></i>
+                        <i class="fab fa-bootstrap"></i>
                     </li>
                     <li class="list-inline-item">
-                        <i class="fab fa-bootstrap"></i>
+                        <i class="fab fa-aws"></i>
                     </li>
                     <li class="list-inline-item">
                         <i class="fab fa-digital-ocean"></i>

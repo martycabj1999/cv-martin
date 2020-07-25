@@ -20,7 +20,7 @@ const Proyectos = () => {
                         <p>{messages.projects_description_2}</p>
                     </li>
                     <li>
-                        <a style={{color: '#bd5d38'}} href="http://micompra.site/"><i class="fa-li fa fa-trophy text-warning"></i> {messages.projects_name_3}</a>
+                        <a style={{color: '#bd5d38'}} href="http://www.micompra.site/"><i class="fa-li fa fa-trophy text-warning"></i> {messages.projects_name_3}</a>
                         <p>{messages.projects_description_3}</p>
                     </li>
                     <li>
@@ -33,7 +33,7 @@ const Proyectos = () => {
                     </li>
                     <li>
                         <a style={{color: '#bd5d38'}} href="https://platzi.com/clases/mongodb/"><i class="fa-li fa fa-trophy text-warning"></i> {messages.projects_course_2}</a>
-                        <p>{messages.projects_course_description_}</p>
+                        <p>{messages.projects_course_description_2}</p>
                     </li>
                     <li>
                         <a style={{color: '#bd5d38'}} href="https://www.udemy.com/course/introduccion-a-graphql-desde-las-bases-hasta-crear-apis/"><i class="fa-li fa fa-trophy text-warning"></i> {messages.projects_course_3}</a>
@@ -42,6 +42,10 @@ const Proyectos = () => {
                     <li>
                         <a style={{color: '#bd5d38'}} href="https://platzi.com/clases/docker/"><i class="fa-li fa fa-trophy text-warning"></i> {messages.projects_course_4}</a>
                         <p>{messages.projects_course_description_4}</p>
+                    </li>
+                    <li>
+                        <a style={{color: '#bd5d38'}} href="https://platzi.com/cursos/aws-cloud/"><i class="fa-li fa fa-trophy text-warning"></i> {messages.projects_course_15}</a>
+                        <p>{messages.projects_course_description_15}</p>
                     </li>
                     <li>
                         <a style={{color: '#bd5d38'}} href="https://platzi.com/clases/digital-ocean/"><i class="fa-li fa fa-trophy text-warning"></i> {messages.projects_course_5}</a>
@@ -60,7 +64,7 @@ const Proyectos = () => {
                         <p>{messages.projects_course_description_8}.</p>
                     </li>
                     <li>
-                        <a style={{color: '#bd5d38'}} href="https://www.udemy.com/course/curso-laravel-5-5-desde-cero-desarrolla-publica-una-app-pedidos/"><i class="fa-li fa fa-trophy text-warning"></i> {messages.projects_course_9}</a>
+                        <a style={{color: '#bd5d38'}} href="https://www.udemy.com/course/curso-laravel-crea-aplicaciones-y-sitios-web-con-php-y-mvc/"><i class="fa-li fa fa-trophy text-warning"></i> {messages.projects_course_9}</a>
                         <p>{messages.projects_course_description_9}</p>
                     </li>
                     <li>
